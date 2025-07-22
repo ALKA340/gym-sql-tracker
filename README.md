@@ -94,23 +94,6 @@ Here’s the ER Diagram for the Health Tracker Project:
 
 ![ER Diagram](health_tracker_er_diagram.png)
 
----
-
-## 📌 How This Helps for a Role Like Cult.Fit
-
-✅ Demonstrates your real-world understanding of **fitness + data**  
-✅ Shows ability to **design and analyze structured health data**  
-✅ Gives proof of **hands-on dashboarding and SQL experience**  
-✅ Can be discussed in interviews as a personalized, **passion-driven project**
-
----
-
-## 🚀 Future Improvements
-
-- Add sleep tracking and heart rate data
-- Introduce login and user authentication
-- Export PDF health reports
-- Deploy online using Flask/Django (optional)
 
 ---
 
